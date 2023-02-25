@@ -1,0 +1,49 @@
+<resources>
+    <string name="kdc_public_key">
+        MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDgT7DCyo7ovTTFfkrO98yAI1tPwAVTDLoCff63ok6yauSfBEwZxpsCNkfagJWEYmUQgjOiimtHvWLeJg8bIOzgOVjrFeoDMsYhGk5+7QdRlUJDkt15Q/C3cdrVRU8BxwPxtRkw89vfHToQT3xC3HD86YCAZbo9w55DQ0fFUB2N/wIDAQAB
+</string>
+    <string name="app_name">AESDOOR</string>
+    <!--<string name="app_name">My Application</string>-->
+    <string name="hello_world">Hello World</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>DoorInfoToSend
+    <string name="chage_pic">改变图片</string>
+    <string name="chage_text">改变文本</string>
+    <string name="warm">Warn</string>
+    <string name="email">用户名</string>
+    <string name="login">Login</string>
+    <string name="loginpassword">LoginPassword</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="name">Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_a_member_login">Already a member? Login</string>
+    <string name="todo">GORIO</string>
+    <string name="nick_name">昵称</string>
+    <string name="password2">密码</string>
+    <string name="openpassword">OpenPassword</string>
+
+
+
+    <string name="ok">确&#160;定</string>
+    <string name="cancel">取&#160;消</string>
+
+
+    <!-- TabSegmentFragment 选项卡展示界面 -->
+    <string name="tabSegment_item_1_title">开门</string>
+    <string name="tabSegment_item_2_title">远控开门</string>
+    <string name="tabSegment_item_3_title">权限管理</string>
+    <string name="tabSegment_item_4_title">门锁状态</string>
+    <string name="tabSegment_item_5_title">个人信息</string>
+
+    <string name="tabSegment_item_1_content">点击下方按钮，即可开门</string>
+    <string name="tabSegment_item_2_content">点击下方按钮，远控开门</string>
+    <string name="tabSegment_item_3_content">点击下方按钮，查询权限信息</string>
+    <string name="tabSegment_item_4_content">点击下方按钮，查询当前门锁状态</string>
+    <string name="tabSegment_item_5_content">个人信息展示</string>
+
+    <string name="tabSegment_item_1_button">开门</string>
+    <string name="tabSegment_item_2_button">开门</string>
+    <string name="tabSegment_item_3_button">查询</string>
+    <string name="tabSegment_item_4_button">查询</string>
+    <string name="tabSegment_item_5_button">注销</string>
+</resources>
